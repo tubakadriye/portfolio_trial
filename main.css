@@ -1,0 +1,42 @@
+h1{
+    font-family: 'Medula One', cursive;
+    font-weight: normal;
+    line-height: 46px;
+    font-size: 65px;
+    margin: 0 0 23px 0;
+}
+
+h2 {
+    background-color: #607d8b;
+    color: #ffffff;
+    font-size: 40 px;
+    padding: 5px;
+    font-family: 'Medula One', cursive;
+}
+
+/* p { 
+    font-size: 16px;
+    width: 60%;
+}
+*/
+
+title {
+    
+    
+    font-size: 65px;
+}
+
+body {
+    font-family: 'Abel', sans-serif;
+    font-size: 17px;
+    line-height: 23px;
+}
+
+.font{
+    font-family: 'Abel', sans-serif;
+    font-size: 17px;
+    line-height: 23px;
+}
+
+
+
